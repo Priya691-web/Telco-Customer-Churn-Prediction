@@ -1,0 +1,21 @@
+{
+  "total_customers": 7043,
+  "churned_customers": 1869,
+  "retained_customers": 5174,
+  "churn_rate": 26.54,
+  "retained_rate": 73.46,
+  "blank_total_charges": 11,
+  "unweighted_lr": {
+    "accuracy": 0.7999,
+    "recall": 0.5187,
+    "precision": 0.6554
+  },
+  "models": [
+    {
+      "Model": "Logistic Regression (Baseline)",
+      "Accuracy": 0.7324,
+      "Precision": 0.4975,
+      "Recall": 0.7914,
+      "F1-Score": 0.6109,
+      "ROC-AUC": 0.8421,
+      "True Negatives (TN)": 
